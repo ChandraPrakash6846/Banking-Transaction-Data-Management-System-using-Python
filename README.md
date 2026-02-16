@@ -138,7 +138,7 @@ Data Storage
 * python --version
 
 ### Step 2: Clone the Repository
-* git clone https://github.com/yourusername/banking-transaction-system.git
+* git clone https://github.com/ChandraPrakash6846/Banking-Transaction-Data-Management-System-using-Python
 
 ### Step 3: Navigate to Project Folder
 * cd banking-transaction-system
@@ -172,7 +172,7 @@ Data Storage
 
 * Financial data processing
 
-* Skills Demonstrated
+## Skills Demonstrated
 
 * Python Programming
 
