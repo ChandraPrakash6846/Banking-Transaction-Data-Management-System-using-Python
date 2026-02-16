@@ -5,7 +5,7 @@ A Python-based banking transaction data management system designed to securely c
 This system simulates core banking operations and generates structured financial data that can be used for analysis, reporting, and financial data processing. It follows modular architecture principles and ensures persistent storage of account and transaction records.
 The project demonstrates how financial transaction data is created, stored, managed, and maintained in a structured format.
 
-##Key Features
+## Key Features
 
 * Account creation and authentication system
 
